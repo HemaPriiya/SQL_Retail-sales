@@ -1,0 +1,2 @@
+# Only needed for optional validation: python validate_queries.py
+duckdb>=0.9.0
