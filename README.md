@@ -75,4 +75,4 @@ This loads the CSV and runs all 10 business queries; success is printed in the c
 **Hhemapriiya S. N.**  
 [LinkedIn](https://www.linkedin.com/in/hhemapriiya-sn-32bb5a282/)
 
-This project is part of my portfolio to show SQL and data analysis in a business context. Open to feedback and collaboration—feel free to connect.
+This project is part of my portfolio to show SQL and data analysis in a business context. Open to feedback and collaboration feel free to connect.
